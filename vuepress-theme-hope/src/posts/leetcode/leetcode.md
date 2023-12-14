@@ -3,12 +3,9 @@ cover: /assets/images/LeetCode_Banner.png
 icon: pen-to-square
 date: 2022-01-12
 category:
-  - Vegetable
-tag:
-  - red
-  - round
+  - LeetCode
 star: true
-sticky: true
+sticky: false
 author: LZX
 ---
 
