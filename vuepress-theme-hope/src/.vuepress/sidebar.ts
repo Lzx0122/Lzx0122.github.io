@@ -11,7 +11,7 @@ export default sidebar({
       children: "structure",
     },
     {
-      text: "Articles",
+      text: "文章",
       icon: "book",
       prefix: "posts/",
       children: "structure",
@@ -20,3 +20,24 @@ export default sidebar({
     "slides",
   ],
 });
+
+// export default sidebar({
+//   "/": [
+//     "",
+//     {
+//       text: "Demo",
+//       icon: "laptop-code",
+//       prefix: "demo/",
+//       link: "demo/",
+//       children: "structure",
+//     },
+//     {
+//       text: "Articles",
+//       icon: "book",
+//       prefix: "posts/",
+//       children: "structure",
+//     },
+//     "intro",
+//     "slides",
+//   ],
+// });

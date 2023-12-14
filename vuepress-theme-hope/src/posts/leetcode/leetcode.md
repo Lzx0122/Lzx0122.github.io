@@ -9,14 +9,9 @@ tag:
   - round
 star: true
 sticky: true
+author: LZX
 ---
 
-# Tomato
+# LeetCode 刷題記錄
 
-## Heading 2
-
-Here is the content.
-
-### Heading 3
-
-Here is the content.
+## LeetCode 刷題記錄
