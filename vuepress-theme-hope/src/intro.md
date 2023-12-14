@@ -1,6 +1,6 @@
 ---
 icon: circle-info
-cover: /assets/images/cover3.jpg
+cover: /assets/images/quokka_Banner.png
 ---
 
 # 介紹
