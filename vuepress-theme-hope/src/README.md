@@ -11,7 +11,7 @@ projects:
   - icon: /leetcode.svg
     name: LeetCode
     desc: 我練習LeetCode
-    link: https://lzx0122.github.io/blog/posts/leetcode/leetcode.html
+    link: https://blog.lzxworld.com/posts/leetcode/leetcode.html
 
   # - icon: link
   #   name: link name

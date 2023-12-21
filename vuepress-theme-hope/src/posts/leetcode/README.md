@@ -4,6 +4,7 @@ index: false
 icon: laptop-code
 category:
   - Guide
+  - LeetCode
 ---
 
 # LeetCode 刷題記錄

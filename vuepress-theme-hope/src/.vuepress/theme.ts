@@ -15,7 +15,7 @@ export default hopeTheme({
 
   iconAssets: "fontawesome-with-brands",
   logo: "/logo.png",
-  repo: "vuepress-theme-hope/vuepress-theme-hope",
+  repo: "https://github.com/Lzx0122",
 
   docsDir: "src",
 
@@ -38,6 +38,7 @@ export default hopeTheme({
   blog: {
     description: "痾",
     intro: "/intro.html",
+    roundAvatar: true,
     medias: {
       GitHub: "https://github.com/Lzx0122",
     },
